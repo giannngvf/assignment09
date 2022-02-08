@@ -1,0 +1,31 @@
+{
+    "name" : "Gian Gregorio V. Florido",
+    "address" : "Unit 14 FB Employees CPD. Busan St. FB Intl. Village,  Paranaque City",
+    "contact_num" : "09484353967",
+    "email" : "aignaign4141@rocketmail.com",
+    "github" : "@floridogian",
+
+    "career_aim" : ["Be part of a company that will provide working experience and development as a prospective member of", "the information. And, to pursue any profession that will enhance my skills and potentials for the growth and", "advancement of the company."],
+    
+    "birthdate" : ": February 08, 2003",
+    "age" : ": 24",
+    "marital_status" : ": Single",
+    "gender" : ": Male",
+    "religion" : ": Roman Catholic",
+    "citizenship" : ": Filipino",
+
+    "senior_high" : "Francisco College Main Campus",
+    "senior_high_desc" : ["STEM strand", "Attended 2019-2021"],
+    "college" : "Polytechnic University of the Philippines Main Campus",
+    "college_desc" : ["Bachelor of Science in Computer Engineering", "Attended 2021-2025"],
+
+    "soft_skills" : ["Quick Learner", "Ability to work under pressure and under minimum supervision", "Good in oral and written communication skills", "Organized", "Excellent problem-solver", "Time Management"],
+    "hard_skills" : ["Python", "Java", "C++", "HTML"],
+
+    "achievements_awards" : ["Consistent Honor Student from Grade 7-12", "Dean's Lister"]
+    
+    
+    
+    
+
+}
